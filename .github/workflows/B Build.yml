@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  A-Build:
+  B-Build:
     runs-on: windows-latest
     steps:
       - name: Checkout code
