@@ -1,0 +1,13 @@
+name: Check Azure Boards Link
+
+on:
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  check-ab-link:
+    runs-on: windows-latest
+    steps:
+      - name: Azure Boards, check for AB#
+        uses: danhellem/github-actions-pr-is-linked-to-work-item@v1.2
