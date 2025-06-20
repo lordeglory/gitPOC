@@ -1,0 +1,30 @@
+name: B Build
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - 'B/**'
+  pull_request:
+    branches: [ "main" ]
+    paths:
+      - 'githubPOC/B/**'
+  workflow_dispatch:
+
+jobs:
+  A-Build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restore dependencies
+        run: dotnet restore githubPOC/githubPOC.csproj
+
+      - name: Build
+        run: dotnet build githubPOC/githubPOC.csproj --configuration Release --no-restore
