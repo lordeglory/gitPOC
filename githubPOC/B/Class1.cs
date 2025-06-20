@@ -11,6 +11,7 @@ namespace githubPOC.B
          public void Method1()
          {
              Console.WriteLine("Method1 in Class1 from namespace githubPOC.B");
+             Console.WriteLine("Method1 in Class1 from namespace githubPOC.B");
         }
     }
 }

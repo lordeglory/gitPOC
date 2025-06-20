@@ -2,6 +2,7 @@ name: Check Azure Boards Link
 
 on:
   pull_request:
+    types: [opened, edited, synchronize, reopened]
     branches: [ "main" ]
   workflow_dispatch:
 
