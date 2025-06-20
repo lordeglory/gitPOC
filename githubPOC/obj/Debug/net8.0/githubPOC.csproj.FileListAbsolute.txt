@@ -1,0 +1,14 @@
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\bin\Debug\net8.0\githubPOC.exe
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\bin\Debug\net8.0\githubPOC.deps.json
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\bin\Debug\net8.0\githubPOC.runtimeconfig.json
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\bin\Debug\net8.0\githubPOC.dll
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\bin\Debug\net8.0\githubPOC.pdb
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\githubPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\githubPOC.AssemblyInfoInputs.cache
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\githubPOC.AssemblyInfo.cs
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\githubPOC.csproj.CoreCompileInputs.cache
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\githubPOC.dll
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\refint\githubPOC.dll
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\githubPOC.pdb
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\githubPOC.genruntimeconfig.cache
+C:\OneDrive - H&R BLOCK LTD\Desktop\githubPOC\githubPOC\obj\Debug\net8.0\ref\githubPOC.dll
